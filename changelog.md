@@ -12,3 +12,4 @@ All notable changes to this project will be documented in this file. Created by 
 ## [0.3.0] - 2016-09-16
 ### Added
 - put new stuff here
+- added quote
