@@ -24,7 +24,7 @@ class Quotes extends CI_Model {
 		array('id' => '6', 'who' => 'Isaac Asimov', 'mug' => 'isaac-asimov-150x150.jpg', 'where' => '/comp4711/wisdom',
 			'what' => 'Those people who think they know everything are a great annoyance to those of us who do.'),
         array('id' => '7', 'who' => 'lebron james', 'mug' => 'pic.jpg', 'where' => '/comp4711',
-            'what' => 'every day may not be good but there is somthing good every day.')
+            'what' => 'every day may not be good but there is something good every day.')
 	);
 
 	// Constructor
