@@ -13,3 +13,7 @@ All notable changes to this project will be documented in this file. Created by 
 ### Added
 - put new stuff here
 - Enhance Tooltip Feature @gerardng
+
+## [0.3.0] - 2016-09-17
+### Added
+- Added random quote display function @new3
